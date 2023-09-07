@@ -1,0 +1,7 @@
+test_gopro
+train_gopro
+*.png
+*.jpg
+*.pth.tar
+*.tar
+__pycache__/
